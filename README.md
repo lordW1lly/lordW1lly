@@ -13,11 +13,17 @@
  
 
 
-I am a passionate learner, I believe that continuous training and practice are essential to evolve as a developer .
+I am a passionate learner, I believe that continuous training and practice are essential to evolve as a developer.
 
 My first scripts started at Henry's Fullstack web development camp.
 
+Observer of the change that is taking place in our finance system, of which I hope soon, to be able to be part of the development side.
+
+In constant change. Faithful believer that the best solutions are built with teamwork.
+
 I prioritize teamwork and respect among the people I work with.
+
+In life one has only teachers.
 
 
 
