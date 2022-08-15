@@ -1,21 +1,30 @@
-### Hi there 👋
+
 
 <a>
 <img src="./assets/holaMundoSeba.gif"> 
 
 </a>
-**lordW1lly/lordW1lly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>Hello visitor!</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    Here you can see all the projects I've been working at.
+
+ 
+ 
+
+
+I am an appasionate learner, I think continuos training and practice are critical for evolving as  a developer.
+
+My firsts scripts started at Henry's Fullstack web developer bootcamp.
+
+I priorize team work and respect among the people I work with.
+
+
+
+
+
+
+
 
 &nbsp;&nbsp;
 
