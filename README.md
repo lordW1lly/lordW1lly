@@ -7,18 +7,17 @@
 
 <h2>Hello visitor!</h2>
 
-    Here you can see all the projects I've been working at.
+    Here you can see all the projects I've been working on.
 
  
  
 
 
-I am an appasionate learner, I think continuos training and practice are critical for evolving as  a developer.
+I am a passionate learner, I believe that continuous training and practice are essential to evolve as a developer .
 
-My firsts scripts started at Henry's Fullstack web developer bootcamp.
+My first scripts started at Henry's Fullstack web development camp.
 
-I priorize team work and respect among the people I work with.
-
+I prioritize teamwork and respect among the people I work with.
 
 
 
@@ -28,7 +27,7 @@ I priorize team work and respect among the people I work with.
 
 &nbsp;&nbsp;
 
-## **🛠 Lenguajes y Herramientas:**
+## **🛠 Technologies:**
 
 <p  width='40%' align="center">
 
