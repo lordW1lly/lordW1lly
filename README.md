@@ -46,3 +46,10 @@ In life one has only teachers.
 
 </p>
 
+## **📎 Contact me:**
+
+<a href="https://www.linkedin.com/in/sebastian-d-engelstajn-4356271aa/" target="_blank"><img src="./icons/icons8-linkedin-100.png" width="7%" /></a>  
+<a href="https://api.whatsapp.com/send?phone=2616937264" target="_blank"><img src="./icons/icons8-whatsapp-100.png" width="7%" /></a>  
+<a href="mailto: sebastianengelstajn@gmail.com?" target="_blank"><img src="./icons/icons8-email-100.png" width="7%" /></a>
+
+
