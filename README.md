@@ -50,7 +50,7 @@ Henry Diamonds Ecommerce - Project
 
 ---
 
-## DogsApp
+## DogsApp (currently in development)
 <p width='40%' height="100%"align="rigth"> 
     <h3>Informational web app</h3>
     Informational web app for consulting, filtering, and learn about differents dogs breds. The app also allows user to create a custom breed adding name, weight,height among others. 
