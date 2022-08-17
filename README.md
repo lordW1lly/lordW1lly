@@ -33,6 +33,7 @@ In life one has only teachers.
 
 ## E-Commerce
 
+<h2>Henry Diamonds 
 <p width='40%' height="100%"align="rigth"> 
     <h3>Final work done in SoyHenry. Along with 6 great companions</h3>
     Our group decided to use the theme of precious stones and the objects that can be made with them. Here we managed to strengthen our knowledge of the language learned during the bootcamp. Such as "JavaScript, React, Redux and material UI " for the front side, AND "Node.js, JavaScript, Sequelize, Postgress" for the Backend side.
@@ -49,12 +50,17 @@ Henry Diamonds Ecommerce - Project
 
 ---
 
-<a href="https://pi-food-sigma.vercel.app/">
-<img src="./images/HenryProyIndividual.jpg" alt="Proyecto Individual Spooncular"  align="right">     
-</a>
+## DogsApp
+<p width='40%' height="100%"align="rigth"> 
+    <h3>Informational web app</h3>
+    Informational web app for consulting, filtering, and learn about differents dogs breds. The app also allows user to create a custom breed adding name, weight,height among others. 
+    
 
+    
+ </p>
 
-
+<a href="https://github.com/lordW1lly/Dogs-PI">
+DogsApp</a>
 
 
 
