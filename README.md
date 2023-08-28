@@ -1,91 +1,102 @@
-
-
 <a>
-<img src="./assets/holaMundoSeba.gif"> 
-
+<img src="./assets/holaMundoSeba.gif" alt="Greetings GIF"> 
 </a>
 
-<h2>Hello visitor!</h2>
+<h2>Hello, Visitor!</h2>
 
-    Here you can see all the projects I've been working on.
+<p>Welcome to my GitHub profile, where you can explore the projects I've been working on.</p>
 
- 
- 
+<p>I am a dedicated learner who believes in continuous training and practice as essential for evolving as a developer.</p>
 
+<p>My coding journey began at Henry's Fullstack Web Development Bootcamp.</p>
 
-I am a passionate learner, I believe that continuous training and practice are essential to evolve as a developer.
+<p>I'm an observer of the changes in our financial system and aspire to contribute to its development.</p>
 
-My first scripts started at Henry's Fullstack web development camp.
+<p>Adapting is my constant. I firmly believe that the best solutions arise through teamwork and collaboration.</p>
 
-Observer of the change that is taking place in our finance system, of which I hope soon, to be able to be part of the development side.
+<p>Teamwork and mutual respect are values I prioritize when working with others.</p>
 
-In constant change. Faithful believer that the best solutions are built with teamwork.
-
-I prioritize teamwork and respect among the people I work with.
-
-In life one has only teachers.
+<p>In life, everyone is a teacher.</p>
 
 ## **📚 Projects**
 
-&nbsp;
+### E-Commerce
 
+<h3>Henry Diamonds</h3>
+<p>
+Final project completed at SoyHenry, alongside six talented colleagues. We chose to focus on precious stones and their crafted objects. This project reinforced our knowledge of JavaScript, React, Redux, and Material UI on the frontend, and Node.js, JavaScript, Sequelize, and PostgreSQL on the backend.
+</p>
 
+<p>My role involved bridging the gap between the frontend and backend teams, with a primary focus on frontend development. I contributed to features like the shopping cart, payment methods, and user favorites storage.</p>
 
-## E-Commerce
+<p>We built our own database, managed relations, created routes, and documented them. You can access the project page through the link below. Thank you for reading!</p>
 
-<h2>Henry Diamonds 
-<p width='40%' height="100%"align="rigth"> 
-    <h3>Final work done in SoyHenry. Along with 6 great companions</h3>
-    Our group decided to use the theme of precious stones and the objects that can be made with them. Here we managed to strengthen our knowledge of the language learned during the bootcamp. Such as "JavaScript, React, Redux and material UI " for the front side, AND "Node.js, JavaScript, Sequelize, Postgress" for the Backend side.
-    <p>I had the opportunity to get to know both worlds of programming, playing both a communicative role and acting as a link between the needs of the Front team and the Back team. From my role as a developer, my field of action was mainly front-end development. With more direct participation in the elaboration of the shopping cart, its corresponding payment methods and the selection and saving of the user's favs</p><p> 
-    <p>We generated our own Database, relations and route creation for the front and their documentation. By clicking on the link below you can access the project page. Thanks so much for reading!!!</p>
-
-    
- </p>
-<a href="https://frontend-pf-g1.vercel.app/">
-Henry Diamonds Ecommerce - Project
-</a>
-
-&nbsp;&nbsp;
+<a href="https://frontend-pf-g1.vercel.app/">Henry Diamonds Ecommerce - Project</a>
+</p>
 
 ---
 
-## DogsApp (currently in development)
-<p width='40%' height="100%"align="right"> 
-    <h3>Informational web app</h3>
-    Informational web app for consulting, filtering, and learn about differents dogs breds. The app also allows user to create a custom breed adding name, weight,height among others. 
-    
+### DogsApp (currently in development)
 
-    
- </p>
-
-<a href="https://github.com/lordW1lly/Dogs-PI">
-DogsApp</a>
-
-
-
-&nbsp;&nbsp;
-
-## **🛠 Technologies:**
-
-<p  width='40%' align="center">
-
-|                                       |            |                               |         |                                     |           |
-| ------------------------------------- | ---------- | ----------------------------- | ------- | ----------------------------------- | --------- |
-| ![javascript](./icons/icons8-javascript-100.png) | JavaScript | ![VueJs](./icons/icons8-vuejs.svg)   | VueJs   | ![c#](./icons/CsharpIcon.svg) | C# |
-| ![azure](./icons/AzureIcon.png) | Azure      | ![git](./icons/icons8-git-100.png)       | Git     |![postgres](./icons/icons8-postgresql-100.png)   | Postgress |
-| ![redux](./icons/redux.png)           | Redux      | ![html](./icons/html5.png)     | HTML    | ![sequelize](./icons/sequelize.svg) | Sequelize   |
-| ![css](./icons/css.png)               | Css        | ![nodejs](./icons/icons8-nodejs-100.png) | Node.Js  | ![react](./icons/icons8-react-100.png) | React      |
-
+<p>
+<h3>DogsApp - Informational Web App</h3>
+<p>An informational web app designed for browsing and learning about various dog breeds. The app also allows users to create custom breed profiles, including details like name, weight, and height.</p>
 </p>
 
-## **📎 Contact me:**
+<a href="https://github.com/lordW1lly/Dogs-PI">DogsApp</a>
+
+## **🛠 Technologies**
+
+<p>
+Here are the technologies I work with:
+</p>
+
+<table align="center">
+  <tr>
+    <td><img src="./icons/icons8-javascript-100.png" alt="JavaScript"></td>
+    <td>JavaScript</td>
+    <td><img src="./icons/icons8-vuejs.svg" alt="Vue.js"></td>
+    <td>Vue.js</td>
+    <td><img src="./icons/CsharpIcon.svg" alt="C#"></td>
+    <td>C#</td>
+  </tr>
+  <tr>
+    <td><img src="./icons/AzureIcon.png" alt="Azure"></td>
+    <td>Azure</td>
+    <td><img src="./icons/icons8-git-100.png" alt="Git"></td>
+    <td>Git</td>
+    <td><img src="./icons/icons8-postgresql-100.png" alt="PostgreSQL"></td>
+    <td>PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><img src="./icons/redux.png" alt="Redux"></td>
+    <td>Redux</td>
+    <td><img src="./icons/html5.png" alt="HTML"></td>
+    <td>HTML</td>
+    <td><img width="100" height="100" src="https://img.icons8.com/material-outlined/100/mysql-logo.png" alt="mysql-logo"/></td>
+    <td>MySql</td>
+  </tr>
+  <tr>
+    <td><img src="./icons/css.png" alt="CSS"></td>
+    <td>CSS</td>
+    <td><img src="./icons/icons8-nodejs-100.png" alt="Node.js"></td>
+    <td>Node.js</td>
+    <td><img src="./icons/icons8-react-100.png" alt="React"></td>
+    <td>React</td>
+  </tr>
+</table>
+
+
+## **📎 Contact Me**
+
+<p>
+Feel free to reach out via:
+</p>
 
 <a href="https://www.linkedin.com/in/sebaengelstajn/" target="_blank">
-<img src="./icons/icons8-linkedin-100.png" width="7%" />
-
+<img src="./icons/icons8-linkedin-100.png" alt="LinkedIn" width="7%" />
 </a>  
- 
-<a href="mailto: sebastianengelstajn@gmail.com?" target="_blank"><img src="./icons/icons8-sobre-circulado-100.png" width="7%" /></a>
 
-
+<a href="mailto:sebastianengelstajn@gmail.com" target="_blank">
+<img src="./icons/icons8-sobre-circulado-100.png" alt="Email" width="7%" />
+</a>
