@@ -53,7 +53,7 @@ Here are the technologies I work with:
 
 <table align="center"  style="margin: 3rem; width:100%;">
   <tr style="margin: 3rem; width:100%;">
-    <td align="center" style="margin: 2rem;">
+    <td align="center" style="margin: 5rem;">
       <img src="./icons/icons8-javascript-100.png" alt="JavaScript"><br>
       JavaScript
     </td>
