@@ -52,7 +52,7 @@ Here are the technologies I work with:
 </p>
 
 <table align="center"  style="margin: 3rem; width:100%;">
-  <tr>
+  <tr style="margin: 3rem; width:100%;">
     <td align="center">
       <img src="./icons/icons8-javascript-100.png" alt="JavaScript"><br>
       JavaScript
