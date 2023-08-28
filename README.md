@@ -51,7 +51,7 @@ Final project completed at SoyHenry, alongside six talented colleagues. We chose
 Here are the technologies I work with:
 </p>
 
-<table align="center"  width='100%' style="margin: 3rem;   max-width:100%;">
+<table  width='100%' style="margin: 3rem;   max-width:100%;">
 <tbody width='100%' style="width:100%; margin:0;">
   <tr width='100%' style="margin: 3rem; width:100%;">
     <td align="center" style="margin: 5rem;">
