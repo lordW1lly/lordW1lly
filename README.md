@@ -53,7 +53,7 @@ Here are the technologies I work with:
 
 <table  width='100%' style="max-width:100%;">
 <tbody width='100%' style="width:100%; margin:0;">
-  <tr width='100%' style=" width:100%;">
+  <tr width='100%' style="width:100%; margin: 0 3rem 0 3rem;">
     <td align="center">
       <img src="./icons/icons8-javascript-100.png" alt="JavaScript"><br>
       JavaScript
