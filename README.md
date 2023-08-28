@@ -67,7 +67,7 @@ Here are the technologies I work with:
       C#
     </td>
   </tr>
-  <tr width='100%'>
+  <tr width='100%' style="width:100%; margin: 0 3rem 0 3rem;">
     <td align="center">
       <img src="./icons/AzureIcon.png" alt="Azure"><br>
       Azure
@@ -81,7 +81,7 @@ Here are the technologies I work with:
       PostgreSQL
     </td>
   </tr>
-  <tr>
+  <tr style="width:100%; margin: 0 3rem 0 3rem;">
     <td align="center">
       <img src="./icons/redux.png" alt="Redux"><br>
       Redux
