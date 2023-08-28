@@ -51,7 +51,7 @@ Henry Diamonds Ecommerce - Project
 ---
 
 ## DogsApp (currently in development)
-<p width='40%' height="100%"align="rigth"> 
+<p width='40%' height="100%"align="right"> 
     <h3>Informational web app</h3>
     Informational web app for consulting, filtering, and learn about differents dogs breds. The app also allows user to create a custom breed adding name, weight,height among others. 
     
@@ -64,7 +64,6 @@ DogsApp</a>
 
 
 
-
 &nbsp;&nbsp;
 
 ## **🛠 Technologies:**
@@ -73,10 +72,10 @@ DogsApp</a>
 
 |                                       |            |                               |         |                                     |           |
 | ------------------------------------- | ---------- | ----------------------------- | ------- | ----------------------------------- | --------- |
-| ![javascript](./icons/icons8-javascript-100.png) | JavaScript | ![nodejs](./icons/icons8-nodejs-100.png) | Node.Js | ![postgres](./icons/icons8-postgresql-100.png)   | Postgress |
-| ![react](./icons/icons8-react-100.png)           | React      | ![git](./icons/icons8-git-100.png)       | Git     | ![sequelize](./icons/sequelize.svg) | Sequelize |
-| ![redux](./icons/redux.png)           | Redux      | ![html](./icons/html5.png)     | HTML    | ![mongodb](./icons/icons8-react-100.png)     | React-Native   |
-| ![css](./icons/css.png)               | Css        | ![auth0](./icons/4691528_auth0_icon.png)   | Auth0   | ![express](./icons/express.png)     | Express   |
+| ![javascript](./icons/icons8-javascript-100.png) | JavaScript | ![VueJs](./icons/icons8-vuejs.svg)   | VueJs   | ![c#](./icons/CsharpIcon.svg) | C# |
+| ![azure](./icons/AzureIcon.png) | Azure      | ![git](./icons/icons8-git-100.png)       | Git     |![postgres](./icons/icons8-postgresql-100.png)   | Postgress |
+| ![redux](./icons/redux.png)           | Redux      | ![html](./icons/html5.png)     | HTML    | ![sequelize](./icons/sequelize.svg) | Sequelize   |
+| ![css](./icons/css.png)               | Css        | ![nodejs](./icons/icons8-nodejs-100.png) | Node.Js  | ![react](./icons/icons8-react-100.png) | React      |
 
 </p>
 
