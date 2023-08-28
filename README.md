@@ -51,7 +51,7 @@ Final project completed at SoyHenry, alongside six talented colleagues. We chose
 Here are the technologies I work with:
 </p>
 
-<table align="center" width=80%>
+<table align="center" width=100%>
   <tr>
     <td align="center">
       <img src="./icons/icons8-javascript-100.png" alt="JavaScript"><br>
