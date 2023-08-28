@@ -51,7 +51,8 @@ Final project completed at SoyHenry, alongside six talented colleagues. We chose
 Here are the technologies I work with:
 </p>
 
-<table align="center"  style="margin: 3rem; width:100%;">
+<table align="center"   style="margin: 3rem;   width:100%;">
+<tbody style="width:100%">
   <tr style="margin: 3rem; width:100%;">
     <td align="center" style="margin: 5rem;">
       <img src="./icons/icons8-javascript-100.png" alt="JavaScript"><br>
@@ -108,6 +109,7 @@ Here are the technologies I work with:
       React
     </td>
   </tr>
+  </tbody>
 </table>
 
 
