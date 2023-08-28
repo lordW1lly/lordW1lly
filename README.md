@@ -51,40 +51,66 @@ Final project completed at SoyHenry, alongside six talented colleagues. We chose
 Here are the technologies I work with:
 </p>
 
-<table align="center">
+<table align="center" width=80%>
   <tr>
-    <td><img src="./icons/icons8-javascript-100.png" alt="JavaScript"></td>
-    <td>JavaScript</td>
-    <td><img src="./icons/icons8-vuejs.svg" alt="Vue.js"></td>
-    <td>Vue.js</td>
-    <td><img src="./icons/CsharpIcon.svg" alt="C#"></td>
-    <td>C#</td>
+    <td align="center">
+      <img src="./icons/icons8-javascript-100.png" alt="JavaScript"><br>
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="./icons/icons8-vuejs.svg" alt="Vue.js"><br>
+      Vue.js
+    </td>
+    <td align="center">
+      <img src="./icons/CsharpIcon.svg" alt="C#"><br>
+      C#
+    </td>
   </tr>
   <tr>
-    <td><img src="./icons/AzureIcon.png" alt="Azure"></td>
-    <td>Azure</td>
-    <td><img src="./icons/icons8-git-100.png" alt="Git"></td>
-    <td>Git</td>
-    <td><img src="./icons/icons8-postgresql-100.png" alt="PostgreSQL"></td>
-    <td>PostgreSQL</td>
+    <td align="center">
+      <img src="./icons/AzureIcon.png" alt="Azure"><br>
+      Azure
+    </td>
+    <td align="center">
+      <img src="./icons/icons8-git-100.png" alt="Git"><br>
+      Git
+    </td>
+    <td align="center">
+      <img src="./icons/icons8-postgresql-100.png" alt="PostgreSQL"><br>
+      PostgreSQL
+    </td>
   </tr>
   <tr>
-    <td><img src="./icons/redux.png" alt="Redux"></td>
-    <td>Redux</td>
-    <td><img src="./icons/html5.png" alt="HTML"></td>
-    <td>HTML</td>
-    <td><img width="100" height="100" src="https://img.icons8.com/material-outlined/100/mysql-logo.png" alt="mysql-logo"/></td>
-    <td>MySql</td>
+    <td align="center">
+      <img src="./icons/redux.png" alt="Redux"><br>
+      Redux
+    </td>
+    <td align="center">
+      <img src="./icons/html5.png" alt="HTML"><br>
+      HTML
+    </td>
+    <td align="center">
+      <img src="./icons/sequelize.svg" alt="Sequelize"><br>
+      Sequelize
+    </td>
   </tr>
   <tr>
-    <td><img src="./icons/css.png" alt="CSS"></td>
-    <td>CSS</td>
-    <td><img src="./icons/icons8-nodejs-100.png" alt="Node.js"></td>
-    <td>Node.js</td>
-    <td><img src="./icons/icons8-react-100.png" alt="React"></td>
-    <td>React</td>
+    <td align="center">
+      <img src="./icons/css.png" alt="CSS"><br>
+      CSS
+    </td>
+    <td align="center">
+      <img src="./icons/icons8-nodejs-100.png" alt="Node.js"><br>
+      Node.js
+    </td>
+    <td align="center">
+      <img src="./icons/icons8-react-100.png" alt="React"><br>
+      React
+    </td>
   </tr>
 </table>
+
+
 
 
 ## **📎 Contact Me**
