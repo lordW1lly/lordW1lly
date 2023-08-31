@@ -81,7 +81,7 @@ Here are the technologies I work with:
       PostgreSQL
     </td>
   </tr>
-  <tr style="width:100%; margin: 0 3rem 0 3rem;">
+  <tr style="width:6.25rem; margin: 0 3rem 0 3rem;">
     <td align="center" style='width:6.25rem;'>
       <img src="./icons/redux.png" alt="Redux"><br>
       Redux
