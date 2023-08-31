@@ -92,7 +92,7 @@ Here are the technologies I work with:
     </td>
     <td align="center" style='width:6.25rem'>
       <img src="./icons/netIcon.svg" alt="Sequelize"><br>
-      Sequelize
+      .Net
     </td>
   </tr>
   <tr>
