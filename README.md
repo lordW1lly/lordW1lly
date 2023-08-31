@@ -68,7 +68,7 @@ Here are the technologies I work with:
     </td>
   </tr>
   <tr width='100%' style="width:100%; margin: 0 3rem 0 3rem;">
-    <td align="center" style='width:6.25rem'>
+    <td align="center" style='width:6.25rem;'>
       <img src="./icons/AzureIcon.png" alt="Azure"><br>
       Azure
     </td>
@@ -82,16 +82,16 @@ Here are the technologies I work with:
     </td>
   </tr>
   <tr style="width:100%; margin: 0 3rem 0 3rem;">
-    <td align="center" style='width:6.25rem'>
+    <td align="center" style='width:6.25rem;'>
       <img src="./icons/redux.png" alt="Redux"><br>
       Redux
     </td>
-    <td align="center" style='width:6.25rem'>
+    <td align="center" style='width:6.25rem;'>
       <img src="./icons/html5.png" alt="HTML"><br>
       HTML
     </td>
-    <td align="center" style='width:6.25rem'>
-      <img src="./icons/netIcon.svg" style='width:6.25rem' alt="Sequelize"><br>
+    <td align="center" style='width:6.25rem;'>
+      <img src="./icons/netIcon.svg" style='width:6.25rem;' alt="Sequelize"><br>
       .Net
     </td>
   </tr>
