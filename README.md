@@ -91,7 +91,7 @@ Here are the technologies I work with:
       HTML
     </td>
     <td align="center" style='width:6.25rem;'>
-      <img src="./icons/netIcon.svg" width="6.25rem"  alt="net"><br>
+      <img src="./icons/netIcon.svg" width="100rem"  alt="net"><br>
       .Net
     </td>
   </tr>
