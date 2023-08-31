@@ -91,7 +91,7 @@ Here are the technologies I work with:
       HTML
     </td>
     <td align="center" style='width:6.25rem;'>
-      <img src="./icons/netIcon.svg" style='width:6.25rem;' alt="Sequelize"><br>
+      <img src="./icons/netIcon.svg" style='max-width:6.25rem;' alt="Sequelize"><br>
       .Net
     </td>
   </tr>
