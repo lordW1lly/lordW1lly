@@ -54,7 +54,7 @@ Here are the technologies I work with:
 <table  width='100%' style="max-width:100%;">
 <tbody width='100%' style="width:100%; margin:0;">
   <tr width='100%' style="width:100%; margin: 0 3% 0 3%;">
-    <td align="center">
+    <td align="center" style='width:6.25rem'>
       <img src="./icons/icons8-javascript-100.png" alt="JavaScript"><br>
       JavaScript
     </td>
@@ -90,13 +90,13 @@ Here are the technologies I work with:
       <img src="./icons/html5.png" alt="HTML"><br>
       HTML
     </td>
-    <td align="center">
-      <img src="./icons/sequelize.svg" alt="Sequelize"><br>
+    <td align="center" style='width:6.25rem'>
+      <img src="./icons/netIcon.svg" alt="Sequelize"><br>
       Sequelize
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style='width:6.25rem'>
       <img src="./icons/css.png" alt="CSS"><br>
       CSS
     </td>
